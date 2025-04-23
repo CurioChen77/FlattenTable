@@ -84,8 +84,5 @@ python excel_converter.py
 欢迎贡献代码或提出改进建议！  
 
 ## License  
-
-本项目采用 **[MIT License](https://opensource.org/licenses/MIT)**，允许自由使用、修改和分发。  
-
-完整许可条款见 [LICENSE](LICENSE) 文件。  
+本项目采用 **MIT License**, 完整许可条款见 [LICENSE](LICENSE) 文件。  
 
